@@ -23,8 +23,9 @@
 
 ## About me
 
-Hi 👋 there 👋  
-code code code...
+Hi 👋 I’m Adam  
+Junior software developer focused on learning, clean code, and steady improvement.  
+Still learning — but always moving forward 🚀
 
 <a href="https://www.codewars.com/users/AdamKatrenic" rel="nofollow">
   <img
