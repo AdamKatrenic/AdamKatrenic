@@ -17,7 +17,7 @@ I build real projects for real clients — not just tutorials.
 
 ---
 
-## 🛠 Tech stack
+##  Tech stack
 
 **Backend**
 Java · Spring Boot (learning) · JUnit · Maven
