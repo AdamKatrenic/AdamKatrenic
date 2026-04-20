@@ -1,36 +1,57 @@
-<table>
-  <tr>
-    <td width="50%">
-      <img
-        alt="my stats"
-        width="100%"
-        src="https://github-readme-stats-ten-psi-74.vercel.app/api?username=AdamKatrenic&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=turquoise"
-      />
-    </td>
-    <td width="50%">
-      <img
-        alt="top langs"
-        width="100%"
-        src="https://github-readme-stats-ten-psi-74.vercel.app/api/top-langs/?username=AdamKatrenic&layout=compact&langs_count=6&theme=radical"
-      />
-    </td>
-  </tr>
-</table>
+
+# Hi, I'm Adam 👋
+
+Junior developer from Slovakia focused on Java backend and modern web development.
+I build real projects for real clients — not just tutorials.
+
+---
+
+## 🚀 Shipped projects
+
+| Project | Stack | Live |
+|---|---|---|
+| Proofs — strechárska firma | Next.js, TypeScript, Tailwind, Sanity | [proofs.sk](https://www.proofs.sk) |
+| DavidWeb — videograf | Next.js, TypeScript, Tailwind, Sanity | [david-web-omega.vercel.app](https://david-web-omega.vercel.app) |
+| Slot Machine Simulator | Java, JUnit, Monte Carlo testing | [github](https://github.com/AdamKatrenic) |
+| Roulette Simulator | Java, JUnit, Monte Carlo testing | [github](https://github.com/AdamKatrenic) |
+
+---
+
+## 🛠 Tech stack
+
+**Backend**
+Java · Spring Boot (learning) · JUnit · Maven
+
+**Frontend**
+Next.js · TypeScript · Tailwind CSS · Sanity CMS
+
+**Tools**
+Git · GitHub · Vercel · IntelliJ IDEA · VS Code
+
+---
+
+## 📚 Currently learning
+
+Spring Boot · REST API · Spring Data JPA · PostgreSQL
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://linkedin.com/in/adamkatrenic) · [adamkatrenic@email.com](mailto:adamkatrenic@email.com)
+
+---
+
+
+
+      
+    	
+      
+    
+
 
 ![WakaTime](https://github-readme-stats-ten-psi-74.vercel.app/api/wakatime?username=AdamKatrenic)
 
-<br>
 
-## About me
+  
 
-Hi 👋 I’m Adam  
-Junior software developer focused on learning, clean code, and steady improvement.  
-Still learning — but always moving forward 🚀
-
-<a href="https://www.codewars.com/users/AdamKatrenic" rel="nofollow">
-  <img
-    src="https://www.codewars.com/users/AdamKatrenic/badges/small"
-    alt="Codewars badge"
-    style="max-width: 100%;"
-  />
-</a>
