@@ -1,12 +1,12 @@
 
-# Hi, I'm Adam 👋
+# Hi, I'm Adam 
 
 Junior developer from Slovakia focused on Java backend and modern web development.
 I build real projects for real clients — not just tutorials.
 
 ---
 
-## 🚀 Shipped projects
+##  Shipped projects
 
 | Project | Stack | Live |
 |---|---|---|
@@ -30,13 +30,13 @@ Git · GitHub · Vercel · IntelliJ IDEA · VS Code
 
 ---
 
-## 📚 Currently learning
+##  Currently learning
 
 Spring Boot · REST API · Spring Data JPA · PostgreSQL
 
 ---
 
-## 📫 Contact
+##  Contact
 
 [LinkedIn](https://linkedin.com/in/adamkatrenic) · [adamkatrenic@email.com](mailto:adamkatrenic@email.com)
 
