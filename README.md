@@ -12,8 +12,8 @@ I build real projects for real clients — not just tutorials.
 |---|---|---|
 | Proofs — strechárska firma | Next.js, TypeScript, Tailwind, Sanity | [proofs.sk](https://www.proofs.sk) |
 | DavidWeb — videograf | Next.js, TypeScript, Tailwind, Sanity | [davidpillar.sk](https://www.davidpillar.sk/) |
-| Slot Machine Simulator | Java, JUnit, Monte Carlo testing | [github](https://github.com/AdamKatrenic) |
-| Roulette Simulator | Java, JUnit, Monte Carlo testing | [github](https://github.com/AdamKatrenic) |
+| Slot Machine Simulator | Java, JUnit, Monte Carlo testing | [github](https://github.com/AdamKatrenic/slot-game-logic-engine) |
+| Roulette Simulator | Java, JUnit, Monte Carlo testing | [github](https://github.com/AdamKatrenic/roulette-simulator) |
 
 ---
 
