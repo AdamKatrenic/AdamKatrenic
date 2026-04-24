@@ -23,7 +23,7 @@ I build real projects for real clients — not just tutorials.
 Java · Spring Boot (learning) · JUnit · Maven · MySQL (learning)
 
 **Frontend**
-Next.js · TypeScript · Tailwind CSS · Sanity CMS
+Next.js · TypeScript · Tailwind CSS · Sanity CMS · JavaScript
 
 **Tools**
 Git · GitHub · Vercel · IntelliJ IDEA · VS Code · Resend
