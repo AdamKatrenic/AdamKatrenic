@@ -22,7 +22,7 @@ I build real projects for real clients — not just tutorials.
 ##  Tech stack
 
 **Backend**
-Java · Spring Boot (learning) · JUnit · Maven · MySQL (learning)
+Java · Spring Boot (learning) · JUnit (learning) · Maven · MySQL (learning)
 
 **Frontend**
 Next.js · TypeScript · Tailwind CSS · Sanity CMS · JavaScript
