@@ -4,7 +4,7 @@
 Junior developer from Slovakia focused on Java backend and modern web development.
 I build real projects for real clients, not just tutorials.
 
----
+----
 
 ##  Shipped projects
 
@@ -17,7 +17,7 @@ I build real projects for real clients, not just tutorials.
 | Medical Asset Management System | Java, Angular, Spring Boot | [github](https://github.com/AdamKatrenic/healthtech-device-manager) |
 | Asset Health Monitor | Node.js, Express.js, Docker, Jest, PostgreSQL | [github](https://github.com/AdamKatrenic/asset-health-monitor) |
 
----
+----
 
 ##  Tech stack
 
@@ -30,19 +30,19 @@ Next.js · TypeScript · Tailwind CSS · Sanity CMS · JavaScript
 **Tools**
 Git · GitHub · Vercel · IntelliJ IDEA · VS Code · Resend · POSTMAN
 
----
+----
 
 ##  Currently learning
 
 Spring Boot · REST API · Spring Data JPA · PostgreSQL · Docker · Angular
 
----
+----
 
 ##  Contact
 
 [LinkedIn](https://linkedin.com/in/adamkatrenic) · [adamkatrenic@email.com](mailto:adamkatrenic@email.com)
 
----
+----
 
 
 
