@@ -16,6 +16,7 @@ I build real projects for real clients, not just tutorials.
 | Roulette Simulator | Java, JUnit, Monte Carlo testing | [github](https://github.com/AdamKatrenic/roulette-simulator) |
 | Medical Asset Management System | Java, Angular, Spring Boot | [github](https://github.com/AdamKatrenic/healthtech-device-manager) |
 | Asset Health Monitor | Node.js, Express.js, Docker, Jest, PostgreSQL | [github](https://github.com/AdamKatrenic/asset-health-monitor) |
+| Soundify | Java, Spring Boot, React, JWT, Docker | [github](https://github.com/AdamKatrenic/Soundify) |
 
 ----
 
