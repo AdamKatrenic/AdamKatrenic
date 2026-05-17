@@ -35,7 +35,7 @@ Git · GitHub · Vercel · IntelliJ IDEA · VS Code · Resend · POSTMAN
 
 ##  Currently learning
 
-Spring Boot · REST API · Spring Data JPA · PostgreSQL · Docker · Angular
+Spring Boot · REST API · Spring Data JPA · PostgreSQL · Docker · Angular · NeoVIM
 
 ----
 
