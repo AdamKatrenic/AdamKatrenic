@@ -58,3 +58,4 @@ Spring Boot · REST API · Spring Data JPA · PostgreSQL · Docker · Angular ·
 
   
 
+Wakatime broken.. fixing soon
