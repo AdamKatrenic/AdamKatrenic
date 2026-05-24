@@ -29,7 +29,7 @@ Java · Spring Boot (learning) · JUnit (learning) · Maven · MySQL (learning)
 Next.js · TypeScript · Tailwind CSS · Sanity CMS · JavaScript
 
 **Tools**
-Git · GitHub · Vercel · IntelliJ IDEA · VS Code · Resend · POSTMAN
+Git · GitHub · Vercel · IntelliJ IDEA · VS Code · Resend · POSTMAN · Docker
 
 ----
 
