@@ -1,61 +1,41 @@
-
 # Hi, I'm Adam (24 years old).
-
 Junior developer from Slovakia focused on Java backend and modern web development.
-I build real projects for real clients, not just tutorials.
+I build real projects for real clients — not just tutorials.
 
-----
+---
 
-##  Shipped projects
+## Shipped projects
 
 | Project | Stack | Live |
 |---|---|---|
-| Proofs — strechárska firma | Next.js, TypeScript, Tailwind, Sanity | [proofs.sk](https://www.proofs.sk) |
-| Dávid Pillár — event videograf | Next.js, TypeScript, Tailwind, Sanity | [davidpillar.sk](https://www.davidpillar.sk/) |
+| Banking REST API | Java, Spring Boot, MySQL, JWT, Swagger, Railway | [live](https://banking-api-production-238c.up.railway.app/swagger-ui/index.html) |
+| Proofs — roofing company | Next.js, TypeScript, Tailwind, Sanity | [proofs.sk](https://www.proofs.sk) |
+| David Pillar — event videographer | Next.js, TypeScript, Tailwind, Sanity | [davidpillar.sk](https://www.davidpillar.sk) |
+| Soundify | Java, Spring Boot, React, JWT, Docker | [github](https://github.com/AdamKatrenic/Soundify) |
+| Medical Asset Management | Java, Angular, Spring Boot | [github](https://github.com/AdamKatrenic/healthtech-device-manager) |
+| Asset Health Monitor | Node.js, Express, Docker, Jest, PostgreSQL | [github](https://github.com/AdamKatrenic/asset-health-monitor) |
 | Slot Machine Simulator | Java, JUnit, Monte Carlo testing | [github](https://github.com/AdamKatrenic/slot-game-logic-engine) |
 | Roulette Simulator | Java, JUnit, Monte Carlo testing | [github](https://github.com/AdamKatrenic/roulette-simulator) |
-| Medical Asset Management System | Java, Angular, Spring Boot | [github](https://github.com/AdamKatrenic/healthtech-device-manager) |
-| Asset Health Monitor | Node.js, Express.js, Docker, Jest, PostgreSQL | [github](https://github.com/AdamKatrenic/asset-health-monitor) |
-| Soundify | Java, Spring Boot, React, JWT, Docker | [github](https://github.com/AdamKatrenic/Soundify) |
 
-----
+---
 
-##  Tech stack
+## Tech stack
 
 **Backend**
-Java · Spring Boot (learning) · JUnit (learning) · Maven · MySQL (learning)
+Java · Spring Boot · Spring Data JPA · MySQL · PostgreSQL · JWT · Docker · Maven · JUnit
 
 **Frontend**
-Next.js · TypeScript · Tailwind CSS · Sanity CMS · JavaScript
+Next.js · TypeScript · Tailwind CSS · Sanity CMS · React · JavaScript
 
 **Tools**
-Git · GitHub · Vercel · IntelliJ IDEA · VS Code · Resend · POSTMAN · Docker
+Git · GitHub · Railway · Vercel · IntelliJ IDEA · VS Code · Postman · Docker
 
-----
+---
 
-##  Currently learning
+## Currently learning
+Spring Security · Microservices · Angular · NeoVIM
 
-Spring Boot · REST API · Spring Data JPA · PostgreSQL · Docker · Angular · NeoVIM
+---
 
-----
-
-##  Contact
-
-[LinkedIn](https://linkedin.com/in/adamkatrenic) · [adamkatrenic@email.com](mailto:adamkatrenic@email.com)
-
-----
-
-
-
-      
-    	
-      
-    
-
-
-![WakaTime](https://github-readme-stats-ten-psi-74.vercel.app/api/wakatime?username=AdamKatrenic)
-
-
-  
-
-Wakatime broken.. fixing soon
+## Contact
+[LinkedIn](https://linkedin.com/in/adamkatrenic) · adamkatrenic@gmail.com
