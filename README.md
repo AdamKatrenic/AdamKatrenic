@@ -37,4 +37,4 @@ Spring Security · Microservices · Angular · NeoVIM
 ---
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/adamkatrenic) · adamkatrenic@gmail.com
+[LinkedIn](https://www.linkedin.com/in/adam-katrenic-a730a5406/) · adamkatrenic@gmail.com
