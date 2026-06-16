@@ -1,4 +1,4 @@
-# Hi, I'm Adam (24 years old) 👋
+# Hi, I'm Adam (24 years old) 
 
 Junior developer from Slovakia focused on Java backend and modern web development.
 I build real projects for real clients — not just tutorials.
