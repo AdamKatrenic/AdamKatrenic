@@ -37,7 +37,7 @@ Git · GitHub · Railway · Vercel · IntelliJ IDEA · VS Code · Postman · Doc
 
 ## Currently learning
 
-Spring Security · Microservices · Angular · NeoVIM
+Spring Security · Microservices · Angular · Kafka
 
 ---
 
